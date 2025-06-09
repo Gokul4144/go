@@ -39,7 +39,7 @@ export default function Home() {
                     <li><Link href="/Sunscreens">Sunscreens</Link></li>
                   </ul>
                 </li>
-                <li><Link href="/about">About</Link></li>
+                <li><Link href="/about.js">About</Link></li>
                 <li><Link href="/contact">Contact</Link></li>
                 <li><Link href="/account">Account</Link></li>
               </ul>
